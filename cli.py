@@ -4,6 +4,8 @@ import click
 
 @click.command()
 def create_django_project():
+    click.echo("\n\t☄️☄️🔥🔥Welcome to Django Initiator! ☄️☄️🔥🔥\n")
+    
     # Prompt the destination directory
     destination_dir = click.prompt("Enter the destination directory")
     
@@ -37,7 +39,8 @@ def create_django_project():
     subprocess.run([os.path.join(venv_dir, "Scripts", "pip"), "install", "django"], cwd=project_dir)
     
     # Create the project
-    subprocess.run(["django-admin", "startproject", project_name, "."], cwd=project_dir)
+    django_admin = os.path.join(venv_dir, "Scripts", "django-admin" if os.name == "nt" else "django-admin")
+    subprocess.run([django_admin, "startproject", project_name, "."], cwd=project_dir)
     
     # Prompt if the user wants to install additional dependencies
     install_dependencies = click.confirm("Do you want to install additional dependencies?")
