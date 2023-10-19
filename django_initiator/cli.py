@@ -4,7 +4,7 @@ import click
 
 @click.command()
 def create_django_project():
-    click.echo("\n\t☄️☄️🔥🔥Welcome to Django Initiator! ☄️☄️🔥🔥\n")
+    click.echo("\n\t ☄️☄️🔥🔥 Welcome to Django Initiator! ☄️☄️🔥🔥\n")
     
     # Prompt the destination directory
     destination_dir = click.prompt("Enter the destination directory")
