@@ -45,7 +45,7 @@
 
 5. Run the Django Initiator:
     ```
-    python cli.py
+    python -m django_initiator.cli
     ```
 
 ## Usage
