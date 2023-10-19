@@ -12,7 +12,7 @@
 
 ## Requirements
 
-- Python 3.6+
+- Python
 - pip (Python package manager)
 
 ## Installation
