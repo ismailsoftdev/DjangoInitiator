@@ -1,6 +1,6 @@
-# Django Initiator
+# DjangoInitiator
 
-**Django Initiator** is a command-line tool that simplifies the process of creating a new Django project. It guides you through setting up your project's directory, creating a virtual environment, installing Django and additional dependencies, and generating a requirements.txt file. This makes it easy to start new Django projects without the hassle of manually setting up the environment.
+**DjangoInitiator** is a command-line tool that simplifies the process of creating a new Django project. It guides you through setting up your project's directory, creating a virtual environment, installing Django and additional dependencies, and generating a requirements.txt file. This makes it easy to start new Django projects without the hassle of manually setting up the environment.
 
 ## Features
 
