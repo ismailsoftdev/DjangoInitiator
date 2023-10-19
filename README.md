@@ -52,6 +52,23 @@
 
 Follow the on-screen prompts to create a new Django project with the desired options.
 
+## Planned Improvements
+
+I have exciting plans to enhance Django Initiator in the future:
+
+- **Python Library (Future Enhancement):** Transform Django Initiator into a Python library, enabling users to initiate projects effortlessly from anywhere in their system.
+
+- **Executable File (.exe):** Streamline the process by creating an executable file for direct tool execution.
+
+- **Specify Django apps:** Allow users to customize their project by specifying which Django apps to include during project creation.
+
+- **Git Integration:** Explore adding Git repository initialization and first commit functionality for streamlined version control setup.
+
+- **Database Client Selection:** Offer users the choice of database clients during project setup.
+
+
+I'm committed to making Django Initiator more powerful and user-friendly. Stay tuned for these exciting updates!
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
