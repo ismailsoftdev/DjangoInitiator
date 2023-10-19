@@ -56,7 +56,7 @@ Follow the on-screen prompts to create a new Django project with the desired opt
 
 I have exciting plans to enhance Django Initiator in the future:
 
-- **Python Library (Future Enhancement):** Transform Django Initiator into a Python library, enabling users to initiate projects effortlessly from anywhere in their system.
+- **Python Library:** Transform Django Initiator into a Python library, enabling users to initiate projects effortlessly from anywhere in their system.
 
 - **Executable File (.exe):** Streamline the process by creating an executable file for direct tool execution.
 
