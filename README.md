@@ -49,7 +49,7 @@
     ```
 
 ## Limitations
-- **Operating System:** Django Initiator has been primarily tested on Windows. While it should work on other platforms, it hasn't been thoroughly tested on macOS or Linux. Users on these platforms are encouraged to provide feedback and report any issues encountered.
+- **Operating System:** DjangoInitiator has been primarily tested on Windows. While it should work on other platforms, it hasn't been thoroughly tested on macOS or Linux. Users on these platforms are encouraged to provide feedback and report any issues encountered.
 
 ## Usage
 
