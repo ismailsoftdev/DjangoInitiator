@@ -48,6 +48,9 @@
     python -m django_initiator.cli
     ```
 
+## Limitations
+- **Operating System:** Django Initiator has been primarily tested on Windows. While it should work on other platforms, it hasn't been thoroughly tested on macOS or Linux. Users on these platforms are encouraged to provide feedback and report any issues encountered.
+
 ## Usage
 
 Follow the on-screen prompts to create a new Django project with the desired options.
@@ -55,8 +58,6 @@ Follow the on-screen prompts to create a new Django project with the desired opt
 ## Planned Improvements
 
 I have exciting plans to enhance Django Initiator in the future:
-
-- **Python Library:** Transform Django Initiator into a Python library, enabling users to initiate projects effortlessly from anywhere in their system.
 
 - **Executable File (.exe):** Streamline the process by creating an executable file for direct tool execution.
 
@@ -67,7 +68,7 @@ I have exciting plans to enhance Django Initiator in the future:
 - **Database Client Selection:** Offer users the choice of database clients during project setup.
 
 
-I'm committed to making Django Initiator more powerful and user-friendly. Stay tuned for these exciting updates!
+I'm committed to making DjangoInitiator more powerful and user-friendly. Stay tuned for these exciting updates!
 
 ## License
 
@@ -79,6 +80,6 @@ Contributions are welcome! If you'd like to improve this project, please fork th
 
 ## Contact
 
-If you have questions or need assistance, feel free to reach out to [Ismail Ibrahim](https://twitter.com/ismailsoftdev).
+If you have questions or need assistance, feel free to reach out to me on [Twitter](https://twitter.com/ismailsoftdev) and [Linkedin](https://www.linkedin.com/in/ismailsoftdev).
 
 Enjoy using Django Initiator!
